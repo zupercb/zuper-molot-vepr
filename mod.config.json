@@ -1,0 +1,20 @@
+{
+	"name": "molotvepr",
+	"author": "zupercb",
+	"version": "1.0.0",
+	"license": "MIT",
+	"dependencies": [],
+	"lateExecute": false,
+	"src":{
+		"src/modloader.js": "CacheModLoad"
+	},
+		"folders": [
+			"files/items",
+			"files/assort/ragfair",
+			"files/locales/en",
+			"files/templates"
+	],
+	"filenames": [
+		"54vepr"
+	]
+}
